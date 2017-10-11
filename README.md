@@ -1,2 +1,2 @@
-# redteam_python_demo
+# RedTeam Python Demo Files
 A simple Python introduction for the MTU RedTeam
