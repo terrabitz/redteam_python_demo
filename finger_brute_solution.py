@@ -1,5 +1,7 @@
 from finger import finger
 
+##record = finger('tjtaubit', 'mtu.edu')
+##print(record)
 
 female_names_file = open('name_lists/female.txt')
 male_names_file = open('name_lists/male.txt')
@@ -7,6 +9,8 @@ male_names_file = open('name_lists/male.txt')
 
 female_records = female_names_file.readlines()
 male_records = male_names_file.readlines()
+
+##print(female_records)
 
 ##for record in female_records:
 ##    name = record.split()[0]
